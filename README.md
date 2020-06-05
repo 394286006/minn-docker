@@ -8,6 +8,7 @@
     1.启动前配置好端口映射[-p 8089:8089 -p 8769:8769 -p 8761:8761 -p 6379:6379 -p 8086:8086 -p 8082:8082]
     2.本地系统配置一个假域名(例如test.back.com)
     3. 访问路径：http://test.back.com:8769
-    
-    集成的镜像文件比较大，已上传到百度网盘，匆忙做的集成镜像，难免有不足，有兴趣到可以下载来看看
+   
+    集成的镜像文件比较大，已上传到百度网盘和dockert hub，匆忙做的集成镜像，难免有不足，有兴趣到可以下载来看看
+    docker hub: https://hub.docker.com/repository/docker/minn394286006/minnautocentos 
     百度网盘：链接:https://pan.baidu.com/s/1i0SGS7HDXM0b2a36VMd9eg  密码:5u05
